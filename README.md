@@ -31,7 +31,7 @@ A simple and responsive web application to **track your daily expenses**. Add an
 
 ## 🔗 Live Demo
 
-[Click here to see the live project](https://your-username.github.io/expense-tracker)
+[Click here to see the live project](https://pocket-track.vercel.app/)
 
 ---
 
