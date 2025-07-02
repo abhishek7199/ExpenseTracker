@@ -6,7 +6,7 @@ A simple and responsive web application to **track your daily expenses**. Add an
 
 ## 📸 Screenshot
 
-![Expense Tracker Screenshot](./screenshot.png)
+![Expense Tracker Screenshot](./app-preview.png)
 
 ---
 
@@ -39,9 +39,8 @@ A simple and responsive web application to **track your daily expenses**. Add an
 
 **Abhishek Kumar**
 
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [your LinkedIn](https://linkedin.com/in/your-linkedin)
+- Twitter: [@webabhishek7](https://x.com/webabhishek7)
+- LinkedIn: [abhishek7199](https://www.linkedin.com/in/abhishek7199/)
 
 ---
 
