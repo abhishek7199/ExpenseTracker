@@ -4,7 +4,7 @@ A simple and responsive web application to **track your daily expenses**. Add an
 
 ---
 
-## 📸 Screenshot
+## Preview
 
 ![Expense Tracker Screenshot](./app-preview.png)
 
