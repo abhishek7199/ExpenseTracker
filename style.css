@@ -26,7 +26,8 @@ body {
   display: flex;
   flex-direction: column;
   gap: 20px;
-  background-color: #fcfcfc;
+  /* background-color: #fcfcfc; */
+  background-color: blue;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
